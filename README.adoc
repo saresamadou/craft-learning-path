@@ -1,0 +1,8 @@
+= Craft learning path
+
+== What is Software Craft ?
+
+https://manifesto.softwarecraftsmanship.org/
+
+== Mind map
+To visualize this mind map, please use Freemind
